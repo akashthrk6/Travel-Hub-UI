@@ -1,0 +1,37 @@
+h2{
+    margin-top: 50px;
+}
+.con input {
+	width: 95%;
+	padding: 10px;
+	border: 1px solid #aaa;
+	border-radius: 10px;
+	font-size: 16px;
+}
+select{
+    width: 97%;
+    padding: 10px;
+    border: 1px solid #aaa;
+	border-radius: 10px;
+}
+
+.check input{
+    display: flex;
+    width: 1%;
+    
+}
+.con .btn {
+	margin-top: 20px;
+	width: 90%;
+	padding: 12px;
+	background: rgba(6, 29, 63, 0.6);
+	color: white;
+	border: none;
+	border-radius: 100px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.con .btn:hover {
+	background: rgba(186, 173, 224, 0.6);
+}
